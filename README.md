@@ -13,7 +13,9 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...
 ### 😄 My GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=QAQgc)
-### 🌱 Views
-![](https://count.getloli.com/get/@QAQgc?theme=asoul)
 
+<!-- ### 🌱 Views
+![](https://count.getloli.com/get/@QAQgc?theme=asoul)
+ -->
+ 
 ### ⚡ Links
